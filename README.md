@@ -1,5 +1,6 @@
 # Programação Orientada a Objetos - JAVA
 
-## Aula 1: Teoria
-## Aula 2: Criando classe e objetos
-## Aula 3: Visibilidade de atributos e métodos
+## Aulas
+1. Teoria
+2. Criando classe e objetos
+3. Visibilidade de atributos e métodos
